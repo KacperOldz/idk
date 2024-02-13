@@ -1,0 +1,16 @@
+#left {
+    float: left;
+}
+
+#right {
+    float: left;
+}
+
+#output {
+    width: 700px;
+    height: 500px;
+}
+
+button {
+    width: 100px;
+}
